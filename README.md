@@ -1,1 +1,1 @@
-# Code for *bernstein-von mises theorem & power posteriors*
+# Code for *Bernstein-von Mises Theorem & Power Posteriors* 
